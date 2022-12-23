@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Nithin Jayaraj</h1>
 <h3 align="center">Full stack web developer</h3>
-<img align="right" width="400" alt="coading" src="https://i0.wp.com/foxutech.com/wp-content/uploads/2018/10/Code-Quality.png?fit=1340%2C712&ssl=1" 
+<img align="center" width="400" alt="coading" src="https://i0.wp.com/foxutech.com/wp-content/uploads/2018/10/Code-Quality.png?fit=1340%2C712&ssl=1" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhodi-creator&label=Profile%20views&color=0e75b6&style=flat" alt="bhodi-creator" /> </p>
 
@@ -32,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nithin jayaraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nithin jayaraj" /></a><a href="https://ko-fi.com/Nithin jayaraj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nithin jayaraj" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhodi-creator&show_icons=true&locale=en&layout=compact" alt="bhodi-creator" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhodi-creator&show_icons=true&locale=en&layout=compact" alt="bhodi-creator" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhodi-creator&show_icons=true&locale=en" alt="bhodi-creator" /></p>
 
