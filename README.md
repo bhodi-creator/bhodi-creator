@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Nithin Jayaraj</h1>
-<h3 align="center">Full stack web developer</h3>
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer" alt="Typing SVG" /></a></h3>
 <img align="center" width="400" alt="coading" src="https://i0.wp.com/foxutech.com/wp-content/uploads/2018/10/Code-Quality.png?fit=1340%2C712&ssl=1" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhodi-creator&label=Profile%20views&color=0e75b6&style=flat" alt="bhodi-creator" /> </p>
